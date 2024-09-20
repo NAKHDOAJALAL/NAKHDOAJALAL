@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NAKHDOAJALAL
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding and develooping
+- 🌱 I’m currently learning Django-advance stuffs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
